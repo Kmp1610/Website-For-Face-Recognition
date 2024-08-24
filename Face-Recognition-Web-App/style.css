@@ -1,0 +1,29 @@
+.st-emotion-cache-1v0mbdj.e115fcil1{
+    border-radius: 9px;
+}
+.main.st-emotion-cache-uf99v8.ea3mdgi8{
+    background-image: url("https://www.asisonline.org/globalassets/security-management/security-technology/2021/december/1221-megan-gates-facial-recognition-freeze-frame2.jpg");
+  background-size: cover;
+  /* padding: 35px; */
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+.st-emotion-cache-1avcm0n.ezrtsby2{
+    background-color: #fbe31d;
+}
+[data-testid="stFileUploaderDropzone"]{
+    background-color: #007F73;
+}
+.st-emotion-cache-1v0mbdj.e115fcil1 {
+    width: 100%; /* Set the width of the container */
+    overflow: hidden; /* Hide the overflow */
+}
+
+.st-emotion-cache-1v0mbdj.e115fcil1 img {
+    width: 50%; /* Set the width of each image to 50% */
+    float: left; /* Float the images to the left */
+}
+[data-testid="stSidebarContent"]{
+    background-color: #007F73;
+}
+
